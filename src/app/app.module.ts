@@ -7,7 +7,7 @@ import { AppFooterComponent } from './shared/app-footer/app-footer.component';
 import { HomeComponent } from './components/home/home.component';
 import { UploadPropertyComponent } from './components/owner/upload-property/upload-property.component';
 import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
-import { AuthComponent } from './components/auth/auth/auth.component';
+import { AuthComponent } from './components/auth/login/auth.component';
 import { NgSelectModule } from '@ng-select/ng-select';
 import { FormControl, FormGroup } from '@angular/forms';
 
